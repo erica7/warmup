@@ -14,6 +14,7 @@ Things you may want to cover:
 * Database creation
 
 * Database initialization
+Run `bin/rake db:seed` to seed the database.
 
 * How to run the test suite
 

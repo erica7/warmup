@@ -6,5 +6,7 @@ class ArticlesController < ApplicationController
     #   automatically render a view that matches the name 
     #   of the controller and action. 
     #   Convention Over Configuration!
+
+    @articles = Article.all
   end
 end
